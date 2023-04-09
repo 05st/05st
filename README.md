@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Fino](https://github-readme-stats.vercel.app/api/pin/?username=05st&repo=fino)](https://github.com/05st/fino)
 
 <!--
 **05st/05st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
