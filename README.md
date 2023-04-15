@@ -1,3 +1,7 @@
+![](https://komarev.com/ghpvc/?username=05st)
+
+Extra Pins:
+
 [![Fino](https://github-readme-stats.vercel.app/api/pin/?username=05st&repo=fino)](https://github.com/05st/fino)
 
 <!--
