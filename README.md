@@ -1,9 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=05st)
 
-Currently working on Fino, a functional programming language.
+currently trying to work on fino which only happens in the rare occasion i find myself with an abundance of free time
 
-Extra Pins:
-
+extra pins:
 [![Fino](https://github-readme-stats.vercel.app/api/pin/?username=05st&repo=fino)](https://github.com/05st/fino)
 [![Argo](https://github-readme-stats.vercel.app/api/pin/?username=05st&repo=argo)](https://github.com/05st/argo)
 
